@@ -48,9 +48,7 @@ var layer_list = [
 	},
 	{
 		'image': floaties_1,
-		'src': '052EF259-1227-4FFF-B29A-1D146F66609F.png
-
-',
+		'src': '052EF259-1227-4FFF-B29A-1D146F66609F.png',
 		'z_index': -1.25,
 		'position': {x: 0, y: 0},
 		'blend': null,

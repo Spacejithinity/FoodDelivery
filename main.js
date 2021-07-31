@@ -59,7 +59,7 @@ var layer_list = [
 		'src': '55E1622D-089D-4A28-97B1-301ABB2F040A.png',
 		'z_index': -0.5,
 		'position': {x: 0, y: 0},
-		'blend': multiply,
+		'blend': ‘multiply’,
 		'opacity': 0.5
 	},
 	{
